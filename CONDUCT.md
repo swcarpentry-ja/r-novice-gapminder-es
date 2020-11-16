@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Código de conducta del contribuidor"
-permalink: /conduct/
 ---
 
 Los contribuidores y **maintainers** de este proyecto,

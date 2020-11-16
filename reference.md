@@ -1,5 +1,8 @@
 ---
 layout: reference
+Title: "Reference"
+root: /es/
+permalink: /es/reference/
 ---
 
 ## Referencia

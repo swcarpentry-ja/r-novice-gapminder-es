@@ -1,6 +1,8 @@
 ---
 layout: page
-title: "Contributor Code of Conduct"
+title: "Código de conducta del contribuidor"
+root: /es/
+permalink: /es/conduct/
 ---
 As contributors and maintainers of this project,
 we pledge to follow the [Carpentry Code of Conduct][coc].
