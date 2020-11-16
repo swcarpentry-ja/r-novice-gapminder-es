@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Configuración
+root: /es/
+permalink: /es/setup/
 ---
 
 Esta lección supone que tienes el software R,RStudio instalado en tu computadora.

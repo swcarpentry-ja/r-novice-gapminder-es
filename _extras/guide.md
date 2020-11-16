@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Guía del instructor"
-permalink: /guide/
+permalink: /es/guide/
 ---
 
 ## Tiempo
